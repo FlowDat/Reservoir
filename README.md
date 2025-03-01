@@ -1,4 +1,4 @@
-# Reservoir Simulation Tutorials using OpenFOAM
+# Reservoir Simulation using OpenFOAM
 
 Welcome to my repository of reservoir simulation tutorials using OpenFOAM, an open-source computational fluid dynamics (CFD) software. These tutorials are designed to help users familiarize themselves with the capabilities of OpenFOAM for reservoir simulation and to understand the basic steps involved in setting up and running simulations.
 
